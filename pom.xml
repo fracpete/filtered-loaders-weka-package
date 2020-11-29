@@ -5,7 +5,7 @@
 
   <groupId>com.github.fracpete</groupId>
   <artifactId>filtered-loaders-weka-package</artifactId>
-  <version>2020.11.29-SNAPSHOT</version>
+  <version>2020.11.29</version>
   <packaging>jar</packaging>
 
   <name>filtered-loaders</name>
